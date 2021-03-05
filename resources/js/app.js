@@ -1,6 +1,6 @@
 require('./bootstrap');
 
-require('alpinejs');
+//require('alpinejs');
 
 import Inputmask from "inputmask";
 let selectorPhone = document.getElementById("phone");
